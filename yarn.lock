@@ -665,6 +665,10 @@
   version "10.5.2"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.5.2.tgz#f19f05314d5421fe37e74153254201a7bf00a707"
 
+"@types/webmidi@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@types/webmidi/-/webmidi-2.0.2.tgz#0466cf747aaed2b914a1e2564635bbda217cb256"
+
 "@vue/babel-preset-app@^3.0.0-rc.4":
   version "3.0.0-rc.4"
   resolved "https://registry.yarnpkg.com/@vue/babel-preset-app/-/babel-preset-app-3.0.0-rc.4.tgz#a1fe2c9f11f30b381eba32723360a48e6f0d72bb"
@@ -6670,6 +6674,10 @@ vue-template-es2015-compiler@^1.6.0:
 vue@^2.5.16:
   version "2.5.16"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.16.tgz#07edb75e8412aaeed871ebafa99f4672584a0085"
+
+vuex-class@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/vuex-class/-/vuex-class-0.3.1.tgz#3c0b946bcff4cf2be1904de5b0cab1a3dd5c41d5"
 
 vuex@^3.0.1:
   version "3.0.1"
